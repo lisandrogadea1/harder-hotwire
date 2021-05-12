@@ -1,4 +1,6 @@
-# harder-hotwire
+# Harder Hotwire
+[![Steam Workshop](steam.svg)](https://steamcommunity.com/sharedfiles/filedetails/?id=2164926937)
+
 Project Zomboid mod that makes hotwiring cars harder.
 
 ## Description
