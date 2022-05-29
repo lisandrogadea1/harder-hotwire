@@ -1,3 +1,8 @@
 ContextMenu_ES = {
-	ContextMenu_VehicleHotwireSkill = "Necesitas las llaves o<br>Electr�nica Nvl 4 y<br>Mec�nica Nvl 6<br>para hacer un puente",
+	ContextMenu_VehicleHotwireSkill = "Necesitas las llaves o<br>Electrónica Nvl 4 y<br>Mecánica Nvl 6<br>para hacer un puente",
+	ContextMenu_VehicleHotwireSkill = "You need <br>Electrical level 4 and<br>Mechanics level 6 and<br>Metalworking level 1<br>to hotwire",
+	ContextMenu_VehicleUnhotwire = "Un-hotwire Engine",
+	ContextMenu_VehicleUnhotwireSkill = "Necesitas <br>Electrónica Nvl 6 <br>Mecánica Nvl 8 y<br>Mecánica Nvl 4<br>para despuentear",
+	ContextMenu_VehicleGetKey = "Hacer las llaves",
+	ContextMenu_VehicleGetKeySkill = "Necesitas <br>Electrónica Nvl 10 <br>Mecánica Nvl 10 y<br>Mecánica Nvl 8<br>para hacer las llaves",
 }
